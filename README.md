@@ -1,5 +1,7 @@
 # Spatial Data Science
-Spring 2025
+**Spring 2025**
+[Remtoe Sensing & Spatial Analytics (RSA) Lab] (https://sites.google.com/itu.edu.pk/rsa-lab/)
+
 
 This a guideline on how to set up a conda environment, with the requisite packages, for the Spatial Data Science course. Please follow this instructions below.
 
@@ -53,7 +55,7 @@ pip install -r requirements.txt
 
 Normally, this should be fine, but if you run into some version conflicts, please let me know. During this process, the terminal will prompt you to confirm the installations. Please proceed. Several dependencies will automatically be installed alongside, such as the libraries `fiona`, `gdal`, etc. These libraries may also be used during the course.
 
-Regarding conflicts: At times, conflicts be resolved by breaking the install into smaller steps. First check the library that raised an error, and ascertain which requirement is unfulfilled. For example, if it says that `numpy` is required, just install it while removing the previous cache (during failed installation).
+General help regarding conflicts: At times, conflicts be resolved by breaking the install into smaller steps. First check the library that raised an error, and ascertain which requirement is unfulfilled. For example, if it says that `numpy` (or a certain version thereof) is required, just install it while removing the previous cache (during failed installation).
 
 ```bash
 pip install --no-cached-dir numpy
