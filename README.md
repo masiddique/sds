@@ -1,2 +1,4 @@
-# sds
-Spatial Data Science
+# Spatial Data Science
+Spring 2025
+
+
