@@ -1,6 +1,9 @@
 # Spatial Data Science
 Spring 2025
 
+This a guideline on how to set up a conda environment, with the requisite packages, for the Spatial Data Science course. Please follow this instructions below.
+
+
 ## Set up & Activate a Conda environment
 
 To set up and activate a new conda environment, you can use the following commands. Replace `your_environment_name` with the desired name for your new environment:
