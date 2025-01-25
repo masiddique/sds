@@ -1,7 +1,7 @@
 # Spatial Data Science
 **Spring 2025**
 
-(Remtoe Sensing & Spatial Analytics (RSA) Lab)[https://sites.google.com/itu.edu.pk/rsa-lab/]
+[Remote Sensing & Spatial Analytics (RSA) Lab](https://sites.google.com/itu.edu.pk/rsa-lab/)
 
 
 This a guideline on how to set up a conda environment, with the requisite packages, for the Spatial Data Science course. Please follow this instructions below.
