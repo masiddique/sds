@@ -27,7 +27,7 @@ conda create --name your_environment_name python=3.9
 - Activate the conda environment:
 
 ```bash
-conda create --name your_environment_name python=3.9
+conda activate your_environment_name
 ```
 
 After activation, your command prompt or terminal prompt should change to show the active environment.
