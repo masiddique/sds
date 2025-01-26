@@ -36,7 +36,7 @@ Remember to replace `your_environment_name` with the actual name you want for yo
 
 ## Install the libraries
 
-You're provided with a file that contains the required libraries for this course. These libraries are:
+You're provided with a file (`requirements.txt`) that contains the required libraries for this course. These libraries are:
 
 ```
 pandas
