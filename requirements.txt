@@ -1,0 +1,15 @@
+shapely==2.0.2
+pandas==2.2.0
+numpy==1.26.3
+scipy
+scikit-learn
+geopandas==0.14.2
+rioxarray==0.15.0
+xarray==2024.2.0
+fiona
+osmx
+datashader
+contextily
+matplotlib==3.8.2
+seaborn
+pysal==24.1
