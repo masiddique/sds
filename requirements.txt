@@ -7,7 +7,7 @@ geopandas==0.14.2
 rioxarray==0.15.0
 xarray==2024.2.0
 fiona
-osmx
+osmnx
 datashader
 contextily
 matplotlib==3.8.2
