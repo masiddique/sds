@@ -1,5 +1,5 @@
 # Spatial Data Science
-**Spring 2025**
+**Spring 2026**
 
 [Remote Sensing & Spatial Analytics (RSA) Lab](https://sites.google.com/itu.edu.pk/rsa-lab/)
 
